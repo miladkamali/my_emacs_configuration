@@ -1,0 +1,128 @@
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+./a.out 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+./a.out 
+g++ -std=c++11 template.cpp 
+g++ -std=c++11 template.cpp 
+./a.out 
+man wget
+cd c++_learning/template/
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+./a.out 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 template.cpp 
+g++ --std=c++11 test2.cpp 
+g++ --std=c++14 test2.cpp 
+g++ --std=c++14 test2.cpp 
+g++ --std=c++14 test2.cpp 
+g++ --std=c++14 test2.cpp 
+./a.out 
+g++ --std=c++14 test2.cpp 
+g++ --std=c++14 test2.cpp 
+./a.out 
+cd ~/Dropbox/projects/
+ls
+cd organizer/
+ls
+rm file_system.hpp.gch 
+ls
+cat file_system\ \(debian\'s\ conflicted\ copy\ 2016-05-27\).cpp
+cat file_system.hpp
+cat file_system.cpp
+ls
+diff file_system\ \(debian\'s\ conflicted\ copy\ 2016-05-27\).cpp file_system.cpp
+rm file_system\ \(debian\'s\ conflicted\ copy\ 2016-05-27\).cpp 
+ls
+rm file_system.hpp\ \(debian\'s\ conflicted\ copy\ 2016-05-27\).gch 
+ls
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+./a.out 
+g++ --std=c++14 test.cpp 
+./a.out 
+g++ --std=c++14 test.cpp 
+./a.out 
+g++ --std=c++14 test.cpp 
+./a.out 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+g++ --std=c++14 test.cpp 
+./a.out 
+g++ test_read.cpp 
+g++ test_read.cpp 
+g++ test_read.cpp 
+./a.out
+g++ test_read.cpp 
+./a.out
+g++ test_read.cpp 
+./a.out
+g++ test_read.cpp 
+./a.out
+g++ test_read.cpp 
+./a.out
+time ./a.out
+g++ -O3 test_read.cpp 
+g++ -O3 test_read.cpp 
+g++ -O3 test_read.cpp 
+g++ -O3 test_read.cpp 
+g++ -O3 test_read.cpp 
+./a.out
+g++ -O3 test_read.cpp 
+./a.out
+g++ -O3 test_read.cpp 
+./a.out
+g++ -O3 test_read.cpp 
+./a.out
+g++ -O3 test_read.cpp 
+./a.out
+g++ -O3 test_read.cpp 
+./a.out
+g++ -O3 test_read.cpp 
+g++ -O3 test_read.cpp 
+g++ -O3 test_read.cpp 
+./a.out
+g++ --std=c++14 test.cpp 
+g++ -O3 test_read.cpp 
+seq 1 1300
+ls|grep output_matrix
